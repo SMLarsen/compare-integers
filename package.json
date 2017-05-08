@@ -1,0 +1,19 @@
+{
+  "name": "snakes-ladders",
+  "version": "1.0.0",
+  "description": "Codewars Kata - 5kyu Snakes and Ladders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMLarsen/snakes-ladders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SMLarsen/snakes-ladders/issues"
+  },
+  "homepage": "https://github.com/SMLarsen/snakes-ladders#readme"
+}
