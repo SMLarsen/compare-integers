@@ -1,7 +1,7 @@
 {
-  "name": "snakes-ladders",
+  "name": "(big-numbers)",
   "version": "1.0.0",
-  "description": "Codewars Kata - 5kyu Snakes and Ladders",
+  "description": "Codewars Kata - 7kyu Compare Two Integers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
